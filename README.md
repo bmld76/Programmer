@@ -3,5 +3,5 @@
 <br/><br/>
 ![pub](http://bmaillard.free.fr/programmer/pub/pub1.png)
 <br/><br/>
-Link to download application : [Application pages](http://bmaillard.free.fr/programmer/).
+Lien de téléchargement : [site applications](http://bmaillard.free.fr/programmer/).
 
