@@ -1,2 +1,3 @@
 # Programmer
-GUI  alimentaion pour Mac
+GUI  alimentation pour Mac
+Link to download application : http://bmaillard.free.fr/programmer/
